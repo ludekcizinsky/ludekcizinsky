@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Ludek and I am primarily interested in the development of state-of-the-art methods in the machine learning field 🤖. I publish my thoughts and notes about the field on [AITU's blog](https://www.aitu.group/blog)
+My name is Ludek and I am primarily interested in the development of state-of-the-art methods in the machine learning field 🤖. I publish my thoughts and notes about the field on [AITU's blog](https://www.aitu.group/blog).
 
 ### Might be interesting
 Here are some of my repositories that you might find interesting:
