@@ -4,7 +4,7 @@ My name is Ludek and I am primarily interested in the development of state-of-th
 ### Might be interesting
 Here are some of my repositories that you might find interesting:
 
-🤖 Machine learning: [mutagenicity-prediction](https://github.com/ludekcizinsky/epfl-cs502/tree/main/coursework/homeworks/hw2) | [nano-learn](https://github.com/ludekcizinsky/nano-learn) | [time-series-prediction](https://github.com/ludekcizinsky/time-series-prediction)
+🤖 Machine learning: [interactive-neural-cellular-automata](https://github.com/Interactive-NCA) | [mutagenicity-prediction](https://github.com/ludekcizinsky/epfl-cs502/tree/main/coursework/homeworks/hw2) | [nano-learn](https://github.com/ludekcizinsky/nano-learn) | [time-series-prediction](https://github.com/ludekcizinsky/time-series-prediction)
 
 🔫 Algorithms problem solving: [kattis](https://github.com/ludekcizinsky/kattis) | [aoc](https://github.com/ludekcizinsky/aoc)
 
