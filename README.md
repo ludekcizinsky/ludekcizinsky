@@ -3,6 +3,7 @@ My name is Ludek and I am primarily interested in the development of state-of-th
 
 Here are some of the most relevant projects I have done in the past:
 
+- **[🔗](https://github.com/ludekcizinsky/phi3-mini-finetune) / 2024 / Size Does Not Matter: A Data-Centric Approach to Fine-Tuning Phi3-mini**
 - **[🔗](https://github.com/mikasenghaas/few-shot-benchmark/tree/main) / 2023 / Benchmarking SOT Feature Transforms for Biomedical Few-Shot Learning Tasks**
 - **[🔗](https://github.com/CS-433/ml-project-2-mlp) / 2023 / Advancing Homepage2Vec with LLM-Generated Datasets for Multilingual Website Classification**
 - [🔗](https://github.com/epfl-ada/ada-2023-project-blackada/tree/main) / 2023 / Evaluating Taste Consensus Among Beer Reviewers: are beer descriptors specific to the given beer type?
