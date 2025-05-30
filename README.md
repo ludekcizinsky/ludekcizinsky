@@ -3,6 +3,7 @@ My name is Ludek and I am primarily interested in the development of state-of-th
 
 Here are some of the most relevant projects I have done in the past:
 
+- **[🔗](https://github.com/ludekcizinsky/hypernca) / 2025 / HyperNCA: Fast texture synthesis using NCA**
 - **[🔗](https://github.com/ludekcizinsky/rl-renaissance) / 2025 / RL-Renaissance: Generating kinetic models using RL**
 - **[🔗](https://github.com/ludekcizinsky/phi3-mini-finetune) / 2024 / Size Does Not Matter: A Data-Centric Approach to Fine-Tuning Phi3-mini**
 - **[🔗](https://github.com/mikasenghaas/few-shot-benchmark/tree/main) / 2023 / Benchmarking SOT Feature Transforms for Biomedical Few-Shot Learning Tasks**
