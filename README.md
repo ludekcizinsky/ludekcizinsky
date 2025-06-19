@@ -3,6 +3,7 @@ My name is Ludek and I am primarily interested in the development of state-of-th
 
 Here are some of the most relevant projects I have done in the past:
 
+- [🔗](https://github.com/ludekcizinsky/fast-cg-solver?tab=readme-ov-file) / 2025 / Fast Conjugade Gradient Solver using MPI and CUDA
 - [🔗](https://github.com/ludekcizinsky/seizure-prediction) / 2025 / Spatio-Temporal Graph Modeling for EEG-Based Seizure Detection: A Comparative Study with Temporal Baselines
 - [🔗](https://github.com/ludekcizinsky/garment-texture-completion) / 2025 / GarmentDiffusion: Garment Texture Completion in UV space using Diffusion
 - [🔗](https://github.com/ludekcizinsky/hypernca) / 2025 / HyperNCA: Fast texture synthesis using NCA
