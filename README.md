@@ -12,8 +12,3 @@ Here are some of the most relevant projects I have done in the past:
 - [🔗](https://github.com/ludekcizinsky/phi3-mini-finetune) / 2024 / Size Does Not Matter: A Data-Centric Approach to Fine-Tuning Phi3-mini
 - [🔗](https://github.com/mikasenghaas/few-shot-benchmark/tree/main) / 2023 / Benchmarking SOT Feature Transforms for Biomedical Few-Shot Learning Tasks
 - [🔗](https://github.com/CS-433/ml-project-2-mlp) / 2023 / Advancing Homepage2Vec with LLM-Generated Datasets for Multilingual Website Classification
-
-I have been also a Teaching Assistant in several courses, you might find useful the following materials:
-
-- [🔗](https://cizinsky.cc/teaching/ml/intro) / 2022 / Notes and detailed solutions to all **Machine Learning** exercises
-- [🔗](https://cizinsky.cc/teaching/lao/intro) / 2022 / Notes and detailed solutions to all **Linear Algebra and Optimisation** exercises
