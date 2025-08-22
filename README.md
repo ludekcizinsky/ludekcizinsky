@@ -1,5 +1,4 @@
-### Hi there 👋 
-My name is Ludek and I am primarily interested in the application and development of state-of-the-art methods in the machine learning field. I have previous experience with LLMs, Graph Neural Networks as well as RL projects. However, my current focus is on dynamic scene reconstruction which combines classical CV tasks (e.g. depth estimation) with capabalities of generative models (e.g. video diffusion).
+I am primarily interested in the application and development of state-of-the-art methods in the machine learning field. I have previous experience with LLMs, Graph Neural Networks as well as RL projects. However, my current focus is on dynamic scene reconstruction which combines classical CV tasks (e.g. depth estimation) with capabalities of generative models (e.g. video diffusion).
 
 Here are some of the most relevant projects I have done in the past:
 
